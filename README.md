@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nickwgllc
-- 👀 I’m interested in crypto, data collection, and automation
+- 👀 I’m interested in automation and full stack software dev with AI agents
 - 🌱 I’m currently learning AppSheet no code development, crypto, and python
 - 💞️ I’m looking to collaborate on building cool things
 - 📫 How to reach me by email nick@cubinvestments.com
